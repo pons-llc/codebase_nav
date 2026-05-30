@@ -1,0 +1,6 @@
+fastembed>=0.8.0
+umap-learn>=0.5.12
+hdbscan>=0.8.43
+networkx>=3.6.1
+scikit-learn>=1.8.0
+numpy>=2.4.0
